@@ -6,6 +6,7 @@ I'm a digital nomad since January 2019. What the heck is a digital nomad? Well..
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phaberest&include_all_commits=true&theme=onedark&show_icons=true&line_height=28&title_color=fff&text_color=fefefe&bg_color=151515)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaberest&include_all_commits=true&theme=gruvbox&show_icons=true&title_color=fff&text_color=fefefe&bg_color=151515)
 
+![Top Languages](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=phaberest&labels=true&legend=true&branding=false&style=codersrank-activity{--legend-text-color:%23fef;--label-text-color:%23fef;--legend-text-color:%23fef;--bg-color-0:%23151515})
 <!--
 **phaberest/phaberest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
