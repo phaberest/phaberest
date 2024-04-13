@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 */1 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Recently used languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 365
+          plugin_languages_ignored: html, css, hack, dockerfile, makefile, qmake, lua, cmake, shell, gnuplot
+          commits_authoring: Luca Sartori, phaberest, phaberest@users.noreply.github.com
