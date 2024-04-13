@@ -11,8 +11,6 @@ I literally obsessed with: vintage laptops 💾, keyboards ⌨️,movies post-cr
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaberest&include_all_commits=true&theme=gruvbox&show_icons=true&title_color=fff&text_color=fefefe&bg_color=151515) -->
 
-![Most active languages](metrics.languages.svg)
-
 ![Wakatime activity](metrics.wakatime.svg)
 
 <!-- ![Global Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=phaberest&labels=true&legend=true&branding=false&style=codersrank-activity{--legend-text-color:%23fef;--label-text-color:%23fef;--legend-text-color:%23fef;--bg-color-0:%23151515}) -->
