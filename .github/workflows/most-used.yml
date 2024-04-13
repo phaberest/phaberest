@@ -21,3 +21,12 @@ jobs:
           plugin_languages_recent_days: 365
           plugin_languages_ignored: html, css, hack, dockerfile, makefile, qmake, lua, cmake, shell, gnuplot
           commits_authoring: Luca Sartori, phaberest, phaberest@users.noreply.github.com
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
