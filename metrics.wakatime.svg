@@ -55,28 +55,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">React</span>
-                                <div class="bar" style="width: 36.856%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">46%</span>
+                                <div class="bar" style="width: 38.848%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Svelte</span>
-                                <div class="bar" style="width: 17.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
+                                <div class="bar" style="width: 18.264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 9.031999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 9.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 5.024000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 5.295999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">fish</span>
-                                <div class="bar" style="width: 3.3520000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <span class="name">TOML</span>
+                                <div class="bar" style="width: 2.2159999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
