@@ -5,6 +5,7 @@ on:
   push: {branches: ["main", "master"]}
 jobs:
   github-metrics:
+    if: false  # Temporarily disabled
     runs-on: ubuntu-latest
     permissions:
       contents: write
