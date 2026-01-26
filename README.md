@@ -7,7 +7,7 @@ I **always** need more coffee ☕
 
 I'm Italian 🤌🏻 🍕 but I t don't live in Italy. I'm exploring the world as a digital nomad on a 1979 Volkswagen 🚐.
 
-I literally obsessed with: vintage laptops 💾, keyboards ⌨️,movies post-credits scenes 🍿, carbonara 🍝.
+I'm **literally obsessed** with: vintage laptops 💾, keyboards ⌨️,movies post-credits scenes 🍿, carbonara 🍝.
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaberest&include_all_commits=true&theme=gruvbox&show_icons=true&title_color=fff&text_color=fefefe&bg_color=151515) -->
 
